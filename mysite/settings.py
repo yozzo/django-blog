@@ -25,7 +25,7 @@ SECRET_KEY = '@l8tgzkbvv@*a!7ds8@i1id8s11va7&!jx(75@q&@4wjv9rl^4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yozzo.pythonanywhere.com']
 
 
 # Application definition
